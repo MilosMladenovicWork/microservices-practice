@@ -1,0 +1,1 @@
+GET http://localhost:3000/test?numbers[]=1&numbers[]=3 HTTP/1.1
